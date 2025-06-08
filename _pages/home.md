@@ -37,6 +37,9 @@ My resume is linked [here](/assets/pdf/cv.pdf).
                 <u><b>H. Zhao</b></u>, 
                 <span style="color: gray;">and K. He</span>
         </p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
+                <b>(ICML 2025)</b>
+        </p>
         <br>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://arxiv.org/abs/2502.13129" style="text-decoration: none; color: blue;">[Paper]</a>
