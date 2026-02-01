@@ -19,11 +19,62 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 ## Publications
 
-<!-- <figure class="third">
-    <a href="/assets/images/publications/wot.png"><img src="/assets/images/publications/wot.png"></a>
-    <p>Is Noise Conditioning Necessary for Denoising Generative Models?</p>
-    <!-- <figcaption>Caption describing these two images.</figcaption> -->
-<!-- </figure> -->
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
+        <a href="/assets/images/publications/pmf.png"><img src="/assets/images/publications/pmf.png"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>One-step Latent-free Image Generation with Pixel Mean Flows</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+                <span style="color: gray;">Y. Lu<sup>*</sup></span>, 
+                <span style="color: gray;">S. Lu<sup>*</sup></span>, 
+                <span style="color: gray;">Q. Sun<sup>*</sup></span>, 
+                <u><b>H. Zhao<sup>*</sup></b></u>, 
+                <span style="color: gray;">Z. Jiang</span>, 
+                <span style="color: gray;">X. Wang</span>, 
+                <span style="color: gray;">T. Li</span>, 
+                <span style="color: gray;">Z. Geng</span>, 
+                <span style="color: gray;">and K. He</span>
+        </p>
+        <!-- <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
+                <b>(ICML 2025)</b>
+        </p> -->
+        <br>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
+             <a href="https://arxiv.org/abs/2601.22158" style="text-decoration: none; color: blue;">[Paper]</a>
+        </p>
+    </div>
+</div>
+
+<!-- space -->
+<br>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
+        <a href="/assets/images/publications/biflow.png"><img src="/assets/images/publications/biflow.png"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Bidirectional Normalizing Flow: From Data to Noise and Back</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+                <span style="color: gray;">Y. Lu<sup>*</sup></span>, 
+                <span style="color: gray;">Q. Sun<sup>*</sup></span>, 
+                <span style="color: gray;">X. Wang<sup>*</sup></span>, 
+                <span style="color: gray;">Z. Jiang</span>, 
+                <u><b>H. Zhao</b></u>, 
+                <span style="color: gray;">and K. He</span>
+        </p>
+        <!-- <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
+                <b>(ICML 2025)</b>
+        </p> -->
+        <br>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
+             <a href="https://arxiv.org/abs/2512.10953" style="text-decoration: none; color: blue;">[Paper]</a>
+        </p>
+    </div>
+</div>
+
+<!-- space -->
+<br>
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
@@ -32,9 +83,9 @@ My resume is linked [here](/assets/pdf/cv.pdf).
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Is Noise Conditioning Necessary for Denoising Generative Models?</b></p>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
-                <span style="color: gray;">Q. Sun</span>, 
-                <span style="color: gray;">Z. Jiang</span>, 
-                <u><b>H. Zhao</b></u>, 
+                <span style="color: gray;">Q. Sun<sup>*</sup></span>, 
+                <span style="color: gray;">Z. Jiang<sup>*</sup></span>, 
+                <u><b>H. Zhao<sup>*</sup></b></u>, 
                 <span style="color: gray;">and K. He</span>
         </p>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
