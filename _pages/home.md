@@ -7,7 +7,7 @@ permalink: /
 
 # About Me
 
-I am an undergraduate at MIT Class of 2028, double-majoring in Physics (Course 8) and Artificial Intelligence & Decision Making (Course 6-4). I am currently an undergraduate researcher in Professor Kaiming He’s group, working at computer vision and generative modeling. My current interests focus on one-step diffusion algorithms, text-to-image generation, and multimodal models.
+I am an undergraduate at MIT Class of 2028, double-majoring in Physics (Course 8) and Artificial Intelligence & Decision Making (Course 6-4). I am currently an undergraduate researcher in Professor [Kaiming He](https://people.csail.mit.edu/kaiming)’s group, working at computer vision and generative modeling. My current interests focus on one-step diffusion algorithms, text-to-image generation, and multimodal models.
 
 I have worked on diffusion models and one-step image generation methods. More recently, my projects involve text-to-image generation and unified multimodal training. In addition to algorithmic research, I spend significant time on building training infrastructure in the research group, including JAX/TPU workflows, distributed optimization, and managing experiments efficiently.
 
