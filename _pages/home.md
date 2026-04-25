@@ -7,13 +7,13 @@ permalink: /
 
 # About Me
 
-I am an undergraduate student in MIT Class of 2028, double-majoring in Physics (Course 8) and Artificial Intelligence and Decision Making (Course 6-4).
+I am an undergraduate at MIT Class of 2028, double-majoring in Physics (Course 8) and Artificial Intelligence & Decision Making (Course 6-4). I am currently an undergraduate researcher in Professor Kaiming He’s group, working at computer vision and generative modeling. My current interests focus on one-step diffusion algorithms, text-to-image generation, and multimodal models.
 
-Currently, I am a [UROP](https://urop.mit.edu/) student in Professor [Kaiming He](https://people.csail.mit.edu/kaiming/)'s group, where I conduct research on generative models together with my colleagues [Zhicheng Jiang](https://jzc-2007.github.io) and [Qiao Sun](https://qiaosungithub.github.io).
+I have worked on diffusion models and one-step image generation methods. More recently, my projects involve text-to-image generation and unified multimodal training. In addition to algorithmic research, I spend significant time on building training infrastructure in the research group, including JAX/TPU workflows, distributed optimization, and managing experiments efficiently.
 
-Before college, I competed in the Physics Olympiad during high school in China and won a gold medal in the 53rd International Physics Olympiad (IPhO). Afterward, I spent a preparatory year at the IIIS, Tsinghua University (a.k.a. the "Yao Class"), where I built a solid foundation in the mathematical principles underlying computer science and deep learning, as well as proficiency in practical tools such as PyTorch.
+Before college, I competed in the Physics Olympiad during high school in China and won a gold medal in the 53rd International Physics Olympiad (IPhO). Afterward, I spent a preparatory year at the IIIS of Tsinghua University (a.k.a. the "Yao Class"), where I began my journey into deep learning and artificial intelligence.
 
-Although I am still a beginner, I am eager to explore various opportunities, either in academia or industry. I also enjoy engaging with people who share similar interests and chatting about anything from research ideas to personal experiences. Feel free to reach out if you'd like to connect!
+Although I am still a beginner, I am eager to explore various opportunities or collaborations. I also enjoy engaging with people who share similar interests and chatting about anything from research ideas to personal experiences. Feel free to reach out if you'd like to connect!
 
 My resume is linked [here](/assets/pdf/cv.pdf).
 
