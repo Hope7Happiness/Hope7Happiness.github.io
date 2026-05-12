@@ -19,13 +19,71 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 ## Publications
 
+<style>
+.publication-meta {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 10px;
+}
+
+.page__content .publication-authors {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.page__content .publication-venue {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    text-align: right;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+</style>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
+        <a href="/assets/images/publications/elf.png"><img src="/assets/images/publications/elf.png"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>ELF: Embedded Language Flows</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+                <span style="color: gray;">K. Hu<sup>*</sup></span>, 
+                <span style="color: gray;">L. Qiu<sup>*</sup></span>, 
+                <span style="color: gray;">Y. Lu</span>, 
+                <!--<span style="color: gray;">H. Zhao</span>, -->
+                <u><b>H. Zhao</b></u>,
+                <span style="color: gray;">T. Li</span>, 
+                <span style="color: gray;">Y. Kim</span>, 
+                <span style="color: gray;">J. Andreas</span>, 
+                <span style="color: gray;">and K. He</span>
+        </p>
+        <!-- <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
+                <b>(Neurips 2026)</b>
+        </p> -->
+        <br>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
+             <a href="https://arxiv.org/abs/2605.10938" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/lillian039/ELF" style="text-decoration: none; color: blue;">[Code]</a>
+        </p>
+    </div>
+</div>
+
+<!-- space -->
+<br>
+
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
         <a href="/assets/images/publications/pmf.png"><img src="/assets/images/publications/pmf.png"></a>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>One-step Latent-free Image Generation with Pixel Mean Flows</b></p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+        <div class="publication-meta">
+        <p class="publication-authors">
                 <span style="color: gray;">Y. Lu<sup>*</sup></span>, 
                 <span style="color: gray;">S. Lu<sup>*</sup></span>, 
                 <span style="color: gray;">Q. Sun<sup>*</sup></span>, 
@@ -36,12 +94,14 @@ My resume is linked [here](/assets/pdf/cv.pdf).
                 <span style="color: gray;">Z. Geng</span>, 
                 <span style="color: gray;">and K. He</span>
         </p>
-        <!-- <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
-                <b>(ICML 2025)</b>
-        </p> -->
+         <p class="publication-venue">
+                <b>(ICML 2026)</b>
+        </p> 
+        </div>
         <br>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://arxiv.org/abs/2601.22158" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/Lyy-iiis/pMF" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
 </div>
@@ -55,7 +115,8 @@ My resume is linked [here](/assets/pdf/cv.pdf).
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Bidirectional Normalizing Flow: From Data to Noise and Back</b></p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+        <div class="publication-meta">
+        <p class="publication-authors">
                 <span style="color: gray;">Y. Lu<sup>*</sup></span>, 
                 <span style="color: gray;">Q. Sun<sup>*</sup></span>, 
                 <span style="color: gray;">X. Wang<sup>*</sup></span>, 
@@ -63,12 +124,14 @@ My resume is linked [here](/assets/pdf/cv.pdf).
                 <u><b>H. Zhao</b></u>, 
                 <span style="color: gray;">and K. He</span>
         </p>
-        <!-- <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
-                <b>(ICML 2025)</b>
-        </p> -->
+         <p class="publication-venue">
+                <b>(CVPR 2026)</b>
+        </p> 
+        </div>
         <br>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://arxiv.org/abs/2512.10953" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://github.com/Lyy-iiis/BiFlow" style="text-decoration: none; color: blue;">[Code]</a>
         </p>
     </div>
 </div>
@@ -82,15 +145,17 @@ My resume is linked [here](/assets/pdf/cv.pdf).
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Is Noise Conditioning Necessary for Denoising Generative Models?</b></p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+        <div class="publication-meta">
+        <p class="publication-authors">
                 <span style="color: gray;">Q. Sun<sup>*</sup></span>, 
                 <span style="color: gray;">Z. Jiang<sup>*</sup></span>, 
                 <u><b>H. Zhao<sup>*</sup></b></u>, 
                 <span style="color: gray;">and K. He</span>
         </p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
+        <p class="publication-venue">
                 <b>(ICML 2025)</b>
         </p>
+        </div>
         <br>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://arxiv.org/abs/2502.13129" style="text-decoration: none; color: blue;">[Paper]</a>
