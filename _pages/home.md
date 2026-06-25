@@ -47,10 +47,10 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
-        <a href="/assets/images/publications/elf.png"><img src="/assets/images/publications/elf.png"></a>
+        <a href="/assets/images/publications/elf.png"><img src="/assets/images/publications/minit2i.png"></a>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
-        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>MiniT2I: </b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>MiniT2I: A Minimalist Baseline for Text-to-Image Generation</b></p>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
                 <span style="color: gray;">X. Wang<sup>*</sup></span>, 
                 <u><b>H. Zhao<sup>*</sup></b></u>,
@@ -67,6 +67,10 @@ My resume is linked [here](/assets/pdf/cv.pdf).
         </p>
     </div>
 </div>
+
+
+<!-- space -->
+<br>
 
 
 <div class="row">
@@ -193,13 +197,3 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 - [**Speeding Up Diffusion Models with One-step Generators**](https://github.com/Hope7Happiness/6s978_project)
 
     <p style="font-size: 18px;">This is the final project for the seminar course <i>6.S978: Deep Generative Models</i> at MIT. In the project, we proposed a new method to speed up the training of diffusion models by using one-step generators. On toy experiments, this reduces NFE by half while maintaining the sample quality. We also wrote a <a href="/three_diff/">blog post</a>, explaining the motivation of the experiment from a higher perspective.</p>
-<!--
-- [**Knowledge Database**](https://github.com/Hidden-Hyperparameter/llm_project)
-
-    <p style="font-size: 18px;">This is the project for the course <i>Introduction to Large Language Model Application</i> at IIIS, Tsinghua University. In the project, we apply LLMs to answer user questions given a folder containing documents as the context. We developed a tagging system, which make the search efficient even when the number of documents is large. We also support semantic search for multimodal documents, such as images and videos.</p>
-
-- [**Deep Learning Study**](https://github.com/Hidden-Hyperparameter/DeepLearning)
-
-    <p style="font-size: 18px;">In the repository, I tried to implement some classic and modern deep learning models from scratch. Instead of using extensive tricks and hyperparameter tuning, I tried to make each model implementation simple and easy to follow while giving reasonable results. I also tried to analyze what tricks are the most necessary for the model to work, so that I can find out the problem more quickly when a new model doesn't work as expected.
-    <br><br>
-    The repository is still under construction, and I will keep updating it with more models and analysis.</p>-->
