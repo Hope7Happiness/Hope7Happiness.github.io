@@ -47,10 +47,10 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
-        <a href="/assets/images/publications/elf.png"><img src="/assets/images/publications/minit2i.png"></a>
+        <a href="https://peppaking8.github.io/#/post/minit2i"><img src="/assets/images/publications/minit2i.png"></a>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
-        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>MiniT2I: A Minimalist Baseline for Text-to-Image Generation</b></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><a href="https://peppaking8.github.io/#/post/minit2i" style="text-decoration: none; color: inherit;"><b>MiniT2I: A Minimalist Baseline for Text-to-Image Generation</b></a></p>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
                 <span style="color: gray;">X. Wang<sup>*</sup></span>, 
                 <u><b>H. Zhao<sup>*</sup></b></u>,
