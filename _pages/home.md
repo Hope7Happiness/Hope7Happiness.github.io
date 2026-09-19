@@ -7,13 +7,13 @@ permalink: /
 
 # About Me
 
-I am an undergraduate at MIT Class of 2028, double-majoring in Physics (Course 8) and Artificial Intelligence & Decision Making (Course 6-4). I am currently an undergraduate researcher in Professor [Kaiming He](https://people.csail.mit.edu/kaiming)’s group, working at computer vision and generative modeling. My current interests focus on one-step diffusion algorithms, text-to-image generation, and multimodal models.
+I am an undergraduate at MIT studying Physics and Artificial Intelligence & Decision Making, expected to graduate in 2027. I am an undergraduate researcher in Professor [Kaiming He](https://people.csail.mit.edu/kaiming)’s group, where I have worked on computer vision, generative modeling and (most recently) multi-agent systems.
 
-I have worked on diffusion models and one-step image generation methods. More recently, my projects involve text-to-image generation and unified multimodal training. In addition to algorithmic research, I spend significant time on building training infrastructure in the research group, including JAX/TPU workflows, distributed optimization, and managing experiments efficiently.
+My research experience spans diffusion models, one-step image generation, and multimodal training. Alongside this work, I build training infrastructure, including JAX/TPU workflows, distributed optimization, and tools for managing research experiments. I am especially interested in large-scale model training and applying my research experience to build real-world AI products that benefit people broadly.
 
-Before college, I competed in the Physics Olympiad during high school in China and won a gold medal in the 53rd International Physics Olympiad (IPhO). Afterward, I spent a preparatory year at the IIIS of Tsinghua University (a.k.a. the "Yao Class"), where I began my journey into deep learning and artificial intelligence.
+I am now seeking full-time Research Engineer or Machine Learning Engineer roles, with particular interest in teams working on agents, multimodal models, or training infrastructure. Please feel free to reach out about relevant opportunities or collaborations.
 
-Although I am still a beginner, I am eager to explore various opportunities or collaborations. I also enjoy engaging with people who share similar interests and chatting about anything from research ideas to personal experiences. Feel free to reach out if you'd like to connect!
+Beyond academics, I also enjoy engaging with people who share similar interests and chatting about anything from research ideas to life experiences. Feel free to reach out if you'd like to connect!
 
 My resume is linked [here](/assets/pdf/cv.pdf).
 
