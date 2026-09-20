@@ -196,7 +196,7 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 - [**Sparkie — A teammate in your meeting**](/sparkie/)
 
-    A voice agent that joins Zoom conversations and delegates project work to a background coding agent. [Project website](/sparkie/) · [Code](https://github.com/Hope7Happiness/sparkie)
+    <p style="font-size: 18px;">This is our project for <i>HackMIT 2026</i>. We built Sparkie, a voice agent that joins Zoom meetings, follows the discussion, and works on files in the background while the team keeps talking. Our <a href="/sparkie/">project page</a> includes a demo and a look at the interface, and the <a href="https://github.com/Hope7Happiness/sparkie">source code on GitHub</a> shows how we connect speech, meeting context, and task execution.</p>
 
 - [**Speeding Up Diffusion Models with One-step Generators**](https://github.com/Hope7Happiness/6s978_project)
 
