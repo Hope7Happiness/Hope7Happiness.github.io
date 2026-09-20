@@ -194,6 +194,10 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 ## Other Projects
 
+- [**Sparkie — A teammate in your meeting**](/sparkie/)
+
+    A voice agent that joins Zoom conversations and delegates project work to a background coding agent. [Project website](/sparkie/) · [Code](https://github.com/Hope7Happiness/sparkie)
+
 - [**Speeding Up Diffusion Models with One-step Generators**](https://github.com/Hope7Happiness/6s978_project)
 
     <p style="font-size: 18px;">This is the final project for the seminar course <i>6.S978: Deep Generative Models</i> at MIT. In the project, we proposed a new method to speed up the training of diffusion models by using one-step generators. On toy experiments, this reduces NFE by half while maintaining the sample quality. We also wrote a <a href="/three_diff/">blog post</a>, explaining the motivation of the experiment from a higher perspective.</p>
