@@ -194,6 +194,10 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 ## Other Projects
 
+- [**A Presentation**](/assets/pdf/presentation-2025-2026.pdf)
+
+    <p style="font-size: 18px;">An overview of my works in 2025-2026, prepared on September 23, 2026. [<a href="/assets/pdf/presentation-2025-2026.pdf">Slides (PDF)</a>]</p>
+
 - [**Sparkie — A teammate in your meeting**](/sparkie/)
 
     <p style="font-size: 18px;">This is our project for <i>HackMIT 2026</i>. We built Sparkie, a voice agent that joins Zoom meetings, follows the discussion, and works on files in the background while the team keeps talking. Our <a href="/sparkie/">project page</a> includes a demo and a look at the interface, and the <a href="https://github.com/Hope7Happiness/sparkie">source code on GitHub</a> shows how we connect speech, meeting context, and task execution.</p>
