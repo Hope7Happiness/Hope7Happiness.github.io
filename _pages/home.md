@@ -47,6 +47,31 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
+        <a href="/assets/images/publications/cyberarena-row.png" style="display: block; margin-top: 24px;"><img src="/assets/images/publications/cyberarena-row.png" alt="CyberArena workflow: live sandbox, attack and defense each round, and arena verification"></a>
+    </div>
+    <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><a href="https://arxiv.org/abs/2610.19005" style="text-decoration: none; color: inherit;"><b>CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat</b></a></p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+                <span style="color: gray;">B. Liu<sup>*</sup></span>,
+                <span style="color: gray;">J. Tu<sup>*</sup></span>,
+                <span style="color: gray;">Y. Pan<sup>*</sup></span>,
+                <u><b>H. Zhao<sup>*</sup></b></u>,
+                <span style="color: gray;">Z. Ye</span>,
+                <span style="color: gray;">H. Li</span>,
+                <span style="color: gray;">et al.</span>
+        </p>
+        <br>
+        <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
+             <a href="https://arxiv.org/abs/2610.19005" style="text-decoration: none; color: blue;">[Paper]</a>
+        </p>
+    </div>
+</div>
+
+<!-- space -->
+<br>
+
+<div class="row">
+    <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
         <a href="https://peppaking8.github.io/#/post/minit2i"><img src="/assets/images/publications/minit2i.png"></a>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
@@ -79,7 +104,8 @@ My resume is linked [here](/assets/pdf/cv.pdf).
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>ELF: Embedded Language Flows</b></p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px;">
+        <div class="publication-meta">
+        <p class="publication-authors">
                 <span style="color: gray;">K. Hu<sup>*</sup></span>, 
                 <span style="color: gray;">L. Qiu<sup>*</sup></span>, 
                 <span style="color: gray;">Y. Lu</span>, 
@@ -90,9 +116,8 @@ My resume is linked [here](/assets/pdf/cv.pdf).
                 <span style="color: gray;">J. Andreas</span>, 
                 <span style="color: gray;">and K. He</span>
         </p>
-        <!-- <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; margin-bottom: 10px; text-align: right; width: 40%;">
-                <b>(Neurips 2026)</b>
-        </p> -->
+        <p class="publication-venue"><b>(NeurIPS 2026)</b></p>
+        </div>
         <br>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://arxiv.org/abs/2605.10938" style="text-decoration: none; color: blue;">[Paper]</a>
