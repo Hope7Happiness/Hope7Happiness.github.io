@@ -47,7 +47,7 @@ My resume is linked [here](/assets/pdf/cv.pdf).
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
-        <a href="/assets/images/publications/cyberarena-row.png" style="display: block; margin-top: 24px;"><img src="/assets/images/publications/cyberarena-row.png" alt="CyberArena workflow: live sandbox, attack and defense each round, and arena verification"></a>
+        <a href="https://cyber-arena.ai/" style="display: block; margin-top: 24px;"><img src="/assets/images/publications/cyberarena-row.png" alt="CyberArena workflow: live sandbox, attack and defense each round, and arena verification"></a>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><a href="https://arxiv.org/abs/2610.19005" style="text-decoration: none; color: inherit;"><b>CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat</b></a></p>
@@ -63,6 +63,7 @@ My resume is linked [here](/assets/pdf/cv.pdf).
         <br>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://arxiv.org/abs/2610.19005" style="text-decoration: none; color: blue;">[Paper]</a>
+             <a href="https://cyber-arena.ai/" style="text-decoration: none; color: blue;">[Project Page]</a>
         </p>
     </div>
 </div>
