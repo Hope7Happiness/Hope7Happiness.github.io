@@ -329,3 +329,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # Keep private-use OAuth information pages out of the public sitemap.
+  - scope:
+      path: "my-calendar/**"
+    values:
+      sitemap: false
